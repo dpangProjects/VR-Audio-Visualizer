@@ -28,6 +28,8 @@ Built With:
 
 ## Parts of the Visualizer
 
+The interior design of the Setting starts off with a Half Cut Dome
+
 ## Contact
 Dalton Pang - [@linkedin](https://www.linkedin.com/in/dalton-pang/) - dspangp@gmail.com
 
