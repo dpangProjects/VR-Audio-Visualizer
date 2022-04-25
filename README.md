@@ -24,7 +24,7 @@
 ## Motivation and Background
 
 Built With:
--Unity
+- Unity
 
 ## Parts of the Visualizer
 
