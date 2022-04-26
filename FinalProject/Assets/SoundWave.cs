@@ -116,8 +116,8 @@ public class SoundWave : MonoBehaviour
 
         }
         elapsed += Time.deltaTime;
-        if (elapsed >= 1.0f && scalesum > scalar) {
-            elapsed = elapsed % 1.0f;
+        if (elapsed >= 1.25f && scalesum > scalar) {
+            elapsed = elapsed % 1.25f;
             changeMaterial(gos);
         }
     }
