@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Waves.unity
+    guid: 7acac7be7a699eb44b30525bd6ae6c23
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3b76bdb6b59054948a85b3158fa63299, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6b137aca3b5c15b448fd1c75dd94967a, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 369188afa137867488137e55e7c5ab8d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9e5032803846974aa76c70e5b30103f, type: 2}
