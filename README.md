@@ -1,8 +1,6 @@
- <! –– 
 # VR-Audio-Visualizer
-
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<!--<details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
