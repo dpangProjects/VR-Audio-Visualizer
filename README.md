@@ -1,3 +1,4 @@
+ <! –– 
 # VR-Audio-Visualizer
 
 <!-- TABLE OF CONTENTS -->
@@ -35,3 +36,4 @@ Dalton Pang - [@linkedin](https://www.linkedin.com/in/dalton-pang/) - dspangp@gm
 
 Sathwik Yanamaddi - [@linkedin](https://www.linkedin.com/in/sathwikyanamaddi/) - sathwik45@gmail.com
 <br />
+-->
